@@ -15,6 +15,7 @@ public class App {
 
         System.out.println("produkten är "+produkt);
         System.out.println("kvoten är "+kvot);
+        System.out.println("SLut");
     }
 
 }
